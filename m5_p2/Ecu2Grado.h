@@ -1,0 +1,1 @@
+int calcularEcuacion(double, double, double, double&, double&);
